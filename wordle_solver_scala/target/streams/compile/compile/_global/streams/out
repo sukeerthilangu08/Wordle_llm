@@ -1,0 +1,30 @@
+[0m[[0m[31merror[0m] [0m[0m[31m[31m-- Error: /Users/harshithlangu/Desktop/Sukeerthi/Wordle_improved_LLM/Wordle_llm/wordle_solver_scala/src/main/scala/WordleSolver.scala:33:20 [0m[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m 33 |[0m      .body(payload)[0m
+[0m[[0m[31merror[0m] [0m[0m[31m[31m    |[0m                    ^[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m    |[0mcannot reduce summonFrom with[0m
+[0m[[0m[31merror[0m] [0m[0m[31m    |[0m patterns :  case [33mgiven [0mencodeA @[0m
+[0m[[0m[31merror[0m] [0m[0m[31m    |[0m  _:[35mio.circe.Encoder[0m[[35mupickle.core.LinkedHashMap[String, ujson.Value][0m][0m
+[0m[[0m[31merror[0m] [0m[0m[31m    |[0m             case [33mgiven [0mevidence$1 @[0m
+[0m[[0m[31merror[0m] [0m[0m[31m    |[0m  _:deriving.Mirror.Of[[35mupickle.core.LinkedHashMap[String, ujson.Value][0m][0m
+[0m[[0m[31merror[0m] [0m[0m[31m    |---------------------------------------------------------------------------[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m    |[0mInline stack trace[0m
+[0m[[0m[31merror[0m] [0m[0m[31m    |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m    |[0mThis location contains code that was inlined from package.scala:18[0m
+[0m[[0m[31merror[0m] [0m[0m[31m    |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m    |[0mThis location contains code that was inlined from package.scala:18[0m
+[0m[[0m[31merror[0m] [0m[0m[31m    |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m    |[0mThis location contains code that was inlined from package.scala:18[0m
+[0m[[0m[31merror[0m] [0m[0m[31m    |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m    |[0mThis location contains code that was inlined from package.scala:18[0m
+[0m[[0m[31merror[0m] [0m[0m[31m    |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m    |[0mThis location contains code that was inlined from package.scala:18[0m
+[0m[[0m[31merror[0m] [0m[0m[31m    |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m    |[0mThis location contains code that was inlined from package.scala:18[0m
+[0m[[0m[31merror[0m] [0m[0m[31m    |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m    |[0mThis location contains code that was inlined from package.scala:18[0m
+[0m[[0m[31merror[0m] [0m[0m[31m    |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m    |[0mThis location contains code that was inlined from package.scala:18[0m
+[0m[[0m[31merror[0m] [0m[0m[31m    |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m    |[0mThis location contains code that was inlined from package.scala:18[0m
+[0m[[0m[31merror[0m] [0m[0m[31m     ---------------------------------------------------------------------------[0m[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m
