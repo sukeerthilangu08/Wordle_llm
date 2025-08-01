@@ -1,0 +1,5 @@
+[warn] -- Deprecation Warning: /Users/harshithlangu/Desktop/Sukeerthi/Wordle_improved_LLM/Wordle_llm/wordle_solver_scala_gemini/src/main/scala/WordleSolver.scala:128:57 
+[warn] 128 |      val charCounts = flatListOfChars.groupBy(identity).mapValues(_.size)
+[warn]     |                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[warn]     |method mapValues in trait MapOps is deprecated since 2.13.0: Use .view.mapValues(f). A future version will include a strict version of this method (for now, .view.mapValues(f).toMap).
+[warn] one warning found

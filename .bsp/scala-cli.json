@@ -1,0 +1,20 @@
+{
+  "name": "scala-cli",
+  "argv": [
+    "/Users/harshithlangu/Library/Application Support/Coursier/bin/.scala-cli.aux",
+    "bsp",
+    "--json-options",
+    "/Users/harshithlangu/Desktop/Sukeerthi/Wordle_improved_LLM/Wordle_llm/.scala-build/ide-options-v2.json",
+    "--json-launcher-options",
+    "/Users/harshithlangu/Desktop/Sukeerthi/Wordle_improved_LLM/Wordle_llm/.scala-build/ide-launcher-options.json",
+    "--envs-file",
+    "/Users/harshithlangu/Desktop/Sukeerthi/Wordle_improved_LLM/Wordle_llm/.scala-build/ide-envs.json",
+    "/Users/harshithlangu/Desktop/Sukeerthi/Wordle_improved_LLM/Wordle_llm"
+  ],
+  "version": "1.8.0",
+  "bspVersion": "2.1.1",
+  "languages": [
+    "scala",
+    "java"
+  ]
+}
